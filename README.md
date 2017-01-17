@@ -1,0 +1,1 @@
+# Euler92_SqDigitChns
